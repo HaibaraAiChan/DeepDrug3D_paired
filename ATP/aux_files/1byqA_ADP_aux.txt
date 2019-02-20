@@ -1,0 +1,2 @@
+BindingResidueIDs:37 38 41 42 44 45 48 83 86 87 88 96 97 102 122 125 126 127 128 129 174 176
+BindingSiteCenter:
